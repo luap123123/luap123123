@@ -7,8 +7,8 @@
 - ⚡ Fun fact: I like coding
 - 👾 Qu1: what does this do?(
 - line i.   for(i=0;i<50;i++){
- - line ii.  ellipse(i,i,12,12);
-- line iii. fill(0,0,0);
+ - ellipse(i,i,12,12);
+-  fill(0,0,0);
  -  }
  - ) well you see all black. 🤣
 
