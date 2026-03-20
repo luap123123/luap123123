@@ -6,7 +6,7 @@
 - 😄 Pronouns: the dude
 - ⚡ Fun fact: I like coding
 - 👾 Qu1: what does this do?(
-- line i.   for(i=0;i<50;i++){
+-  for(i=0;i<50;i++){
  - ellipse(i,i,12,12);
 -  fill(0,0,0);
  -  }
