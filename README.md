@@ -6,11 +6,11 @@
 - 😄 Pronouns: the dude
 - ⚡ Fun fact: I like coding
 - 👾 Qu1: what does this do?(
-line i.   for(i=0;i<50;i++){
-line ii.  ellipse(i,i,12,12);
-line iii. fill(0,0,0);
-   }
-  ) well you see all black. 🤣
+- line i.   for(i=0;i<50;i++){
+ - line ii.  ellipse(i,i,12,12);
+- line iii. fill(0,0,0);
+ -  }
+ - ) well you see all black. 🤣
 
 <!---
 luap123123/luap123123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
