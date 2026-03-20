@@ -6,10 +6,10 @@
 - 😄 Pronouns: the dude
 - ⚡ Fun fact: I like coding
 - 👾 Qu1: what does this do?(
-  1. for(i=0;i<50;i++){
-  2. ellipse(i,i,12,12);
-  3. fill(0,0,0);
-  4. }
+   for(i=0;i<50;i++){
+   ellipse(i,i,12,12);
+   fill(0,0,0);
+   }
   ) well you see all black. 🤣
 
 <!---
